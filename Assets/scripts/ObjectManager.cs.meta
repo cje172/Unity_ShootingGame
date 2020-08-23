@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ed257e5276d875749b39e2e1604a43e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemyLPrefab: {instanceID: 0}
+  - enemyMPrefab: {instanceID: 0}
+  - enemySPrefab: {instanceID: 0}
+  - itemCoinPrefab: {instanceID: 0}
+  - itemPowerPrefab: {instanceID: 0}
+  - itemBoomPrefab: {instanceID: 0}
+  - bulletPlayerAPrefab: {instanceID: 0}
+  - bulletPlayerBPrefab: {instanceID: 0}
+  - bulletEnemyAPrefab: {instanceID: 0}
+  - bulletEnemyBPrefab: {instanceID: 0}
+  - bulletFollowerPrefab: {instanceID: 0}
+  - bulletBossAPrefab: {instanceID: 0}
+  - bulletBossBPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
