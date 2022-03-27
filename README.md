@@ -1,4 +1,4 @@
-# Guru1_Unity_ShootingGame
+# Guru1 Unity ShootingGame
 <p align = "center">
   🎮🚀Guru1 Unity Team Project - Shooting Game
 </p>
